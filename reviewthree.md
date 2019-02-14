@@ -12,9 +12,13 @@ I definitely give this game 10 out of 10 Hint Coins.
 
 ## Summary
 This fun puzzle games starts with our two main characters: Hershel Layton, a professor of archaeology, and Luke Triton, the estranged son of Clark Triton, and together they enjoy answering pleas for help solving mysteries. 
+
 This tale begins with the reading of a letter address to Professor Layton, from Lady Dahlia, asking him to investigate a mystery going on in a little village. She asks him to investigate a strange treasure that was secretly left by her late husband. In the will he stated that he has hidden a golden apple somewhere in the village and that anyone that can find it get his entire estate. 
+
 Professor Layton and ,his self proclaimed apprentice, Luke set out to solve the mystery of this Curious Village. They soon find out that curious St. Mystere was aptly named, as this village contains very interesting characters that are very reluctant to give information of any kind without first receiving answers to puzzles or riddles. 
+
 This DS games allows a mostly first person view of all the locations. By using the stylus you can talk to people and investigate objects around you. There are over 100 different riddles/puzzles that are available for you to solve. After solving them, they are saved to you to an icon in your menu where you can play it as many times as you want. Each riddle/puzzle has 3 obtainable hints that can be purchased with hint coins that you find by clicking on object around the village. 
+
 After starting your journey you get to investigate the manor where Lady Dahlia and many others live. By the adventure really takes off when you find out that there is a kidnapper hiding in the shadow that kidnaps and returns people who later have no memory of the event. By progressing through the puzzles and riddles you eventually will solve the mystery of the Golden Apple as well as the mystery of every single person in the village. You soon discover some inconsistencies in the a few of the testimonies. 
 
 ## Final Thoughts
