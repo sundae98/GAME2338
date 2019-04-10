@@ -4,7 +4,7 @@
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Experitest
 
 _What company developed this test tool?_ 
 
@@ -23,19 +23,21 @@ _If it is an automated tool, does it work with web-based tools? What languages (
 Answer
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+*Allows you to run existing Appium tests without needed to modify them.
+*Allows end-to-end mobile testing automation.
+*Performs Appium testing on iOS devices and can connected up to 10 devices.
+*Provides detailed reports with screenshots and videos
+
 
 ## Tool Two
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Robotium
 
 _What company developed this test tool?_ 
 
-Company Name
+Renas Reda
 
 _Does this tool do any test case storage?_ 
 
@@ -50,19 +52,20 @@ _If it is an automated tool, does it work with web-based tools? What languages (
 Answer
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Provides automated testing for mainly Android UI.
+* Provides support to records from emulators and actual devices.
+* Allows testing both with or without source code provided.
+
 
 ## Tool Three
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Qacomplete
 
 _What company developed this test tool?_ 
 
-Company Name
+Smartbear
 
 _Does this tool do any test case storage?_ 
 
@@ -77,6 +80,7 @@ _If it is an automated tool, does it work with web-based tools? What languages (
 Answer
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+*Provides management tool for traceable testing for test coverage that you can then share to a team or stakeholder. 
+*Provides downloadable templates for test cases.
+*Stores manual and automated test cases and links test cases to tasks and defects
+*Provides a full history of all changes made. 
