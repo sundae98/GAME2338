@@ -12,15 +12,15 @@ Company Name
 
 _Does this tool do any test case storage?_ 
 
-Answer
+Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+No
 
 ### Tool Features
 *Allows you to run existing Appium tests without needed to modify them.
@@ -41,15 +41,15 @@ Renas Reda
 
 _Does this tool do any test case storage?_ 
 
-Answer
+Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+No
 
 ### Tool Features
 * Provides automated testing for mainly Android UI.
@@ -69,15 +69,15 @@ Smartbear
 
 _Does this tool do any test case storage?_ 
 
-Answer
+Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Yes
 
 ### Tool Features
 *Provides management tool for traceable testing for test coverage that you can then share to a team or stakeholder. 
