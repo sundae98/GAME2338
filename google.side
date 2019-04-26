@@ -1,0 +1,86 @@
+{
+  "id": "c307a1f9-4bce-4095-8579-7d6dfede3b48",
+  "version": "2.0",
+  "name": "google",
+  "url": "https://www.google.com",
+  "tests": [{
+    "id": "06750920-bc65-4774-84df-d35335beaf3e",
+    "name": "test",
+    "commands": [{
+      "id": "4b7fcc9f-8115-498d-89c7-bc3bcb39c814",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c56f8835-f369-4c53-b184-4ca5e97fc00e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "784x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "45bb4dff-1ecb-495c-b795-3d30eb3c874b",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/div/input", "xpath:position"]
+      ],
+      "value": "${KEY_DOWN}"
+    }, {
+      "id": "7c83ec74-ad61-4cf5-bc71-d3b9ca4b44bd",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/div/input", "xpath:position"]
+      ],
+      "value": "paper mache"
+    }, {
+      "id": "c274c825-0bcb-4ee7-a2aa-dd9e64673299",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/div/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "8db2841e-a3e8-4b9b-adf7-547a3a3ea16c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.g:nth-child(3) .LC20lb",
+      "targets": [
+        ["css=.g:nth-child(3) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div[3]/div/div[3]/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/div/a/h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'How to Create Papier Mâché: 11 Steps (with Pictures) - wikiHow')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "eb43ee2d-41ec-4b25-ac4c-e51457af5b23",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["06750920-bc65-4774-84df-d35335beaf3e"]
+  }],
+  "urls": ["https://www.google.com/"],
+  "plugins": []
+}
